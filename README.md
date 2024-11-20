@@ -3,7 +3,7 @@ Session 2
 
 [Cơ bản] 1. Làm quen với kiểu dữ liệu: https://onlinegdb.com/Q63Clf07N
 
-[Cơ bản] 2. Làm quen với kiểu dữ liệu: https://onlinegdb.com/Q63Clf07N
+[Cơ bản] 2. Làm quen với kiểu dữ liệu: https://onlinegdb.com/cvSB4RgsE
 
 [Cơ bản] 3. Làm quen với kiểu dữ liệu: https://onlinegdb.com/MztAs1WJn
 
