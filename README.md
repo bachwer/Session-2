@@ -11,4 +11,4 @@ Session 2
 
 [Cơ bản] 5. Luyện tập với kiểu dữ liệu: https://onlinegdb.com/iLxPBqFr2
 
-[Cơ bản] 6. Luyện tập với kiểu dữ liệu: 
+[Cơ bản] 6. Luyện tập với kiểu dữ liệu: https://onlinegdb.com/lwHmgNxTJ
