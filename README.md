@@ -1,7 +1,7 @@
 # Session-2
 Session 2
 
-[Cơ bản] 1. Làm quen với kiểu dữ liệu
+[Cơ bản] 1. Làm quen với kiểu dữ liệu: https://www.programiz.com/online-compiler/8EG90xXInkjPy
 
 [Cơ bản] 2. Làm quen với kiểu dữ liệu
 
