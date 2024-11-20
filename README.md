@@ -3,7 +3,7 @@ Session 2
 
 [Cơ bản] 1. Làm quen với kiểu dữ liệu: https://onlinegdb.com/hiDs4kPZ3
 
-[Cơ bản] 2. Làm quen với kiểu dữ liệu: https://www.programiz.com/online-compiler/9hI4p9ZmCqGMQ
+[Cơ bản] 2. Làm quen với kiểu dữ liệu: https://onlinegdb.com/DT3dCiXxr
 
 [Cơ bản] 3. Làm quen với kiểu dữ liệu: https://onlinegdb.com/MztAs1WJn
 
